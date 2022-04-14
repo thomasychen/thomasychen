@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi! I'm a student at UC Berkeley studying computer science and applied math. 
 
 <!--
 **thomasychen/thomasychen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
